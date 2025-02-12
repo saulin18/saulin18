@@ -6,7 +6,7 @@
 ## 🚀 About Me
 I'm a cuban ✨ full stack developer with love for building software with languages like JS/TS, Python and Java. 
 
-I currently live in Holguin and I'm working right now with Angular/ReactJS and Django/Spring.
+I currently live in Holguin and I'm working right now with Angular/ReactJS and Django/Spring/Express.js
 
 
 
